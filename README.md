@@ -11,3 +11,4 @@ This contains everything you need to run your app locally.
    `npm install`
 3. Run the app:
    `npm run dev`
+by Mahesh Vishwakarma 
